@@ -1,0 +1,8 @@
+sonar.projectKey=my_project_key
+sonar.projectName=my_project_name
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.host.url=http://xx.xx.xx.xx:9005
+sonar.exclusions=frontend/app/common/libraries/**,**/*.css,**/*.js,**/*.html,**/*.scss,**/*.mixins.less
+sonar.login=admin
+sonar.password=admin_or_password
